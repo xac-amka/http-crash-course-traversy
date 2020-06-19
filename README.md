@@ -35,28 +35,28 @@
 
 ## HTTP Header Fields
  
-### General:
+- **General:**
  - Request URL
  - Request Method
  - Status Code
  - Remote Address
  - Referrer Policy
 
-## Response:
- - Server
- - Set-Cookie
- - Content-Type
- - Content-Length
- - Date
+ - **Response:**
+   - Server
+   - Set-Cookie
+   - Content-Type
+   - Content-Length
+   - Date
 
-## Request
- - Cookies
- - Accept-xxx
- - Content-Type
- - Content-Length
- - Authorization
- - User-Agent
- - - Referrer
+ - **Request:**
+   - Cookies
+   - Accept-xxx
+   - Content-Type
+   - Content-Length
+   - Authorization
+   - User-Agent
+   - Referrer
 
 ## HTTP Status Codes
  - 1xx: Informational
