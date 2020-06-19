@@ -35,13 +35,13 @@
 
 ## HTTP Header Fields
  
-- **General:**
- - Request URL
- - Request Method
- - Status Code
- - Remote Address
- - Referrer Policy
-
+ - **General:**
+  - Request URL
+  - Request Method
+  - Status Code
+  - Remote Address
+  - Referrer Policy
+ 
  - **Response:**
    - Server
    - Set-Cookie
