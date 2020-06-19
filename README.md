@@ -36,38 +36,38 @@
 ## HTTP Header Fields
  
 ### General:
- -- Request URL
- -- Request Method
- -- Status Code
- -- Remote Address
- -- Referrer Policy
+ - Request URL
+ - Request Method
+ - Status Code
+ - Remote Address
+ - Referrer Policy
 
 ## Response:
- -- Server
- -- Set-Cookie
- -- Content-Type
- -- Content-Length
- -- Date
+ - Server
+ - Set-Cookie
+ - Content-Type
+ - Content-Length
+ - Date
 
 ## Request
- -- Cookies
- -- Accept-xxx
- -- Content-Type
- -- Content-Length
- -- Authorization
- -- User-Agent
- -- Referrer
+ - Cookies
+ - Accept-xxx
+ - Content-Type
+ - Content-Length
+ - Authorization
+ - User-Agent
+ - - Referrer
 
 ## HTTP Status Codes
- -- 1xx: Informational
+ - 1xx: Informational
  > Request recieved / processing
- -- 2xx: Success
+ - 2xx: Success
  > Successfully Recieved, understood and accepted
- -- 3xx: Redirect
+ - 3xx: Redirect
  > Further action must be taken / redirect
- -- 4xx: Client Error
+ - 4xx: Client Error
  > Request does not have what it needs
- -- 5xx: Server Error
+ - 5xx: Server Error
  > Server failed to fulfil amd apparent valid request
 
 ## HTTP Status Codes Example
